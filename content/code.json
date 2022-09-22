@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "",
+  "html_head": "<a href=\"https://wa.me/5583986050104\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\"><i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i></a>",
   "html_body": ""
 }

@@ -8,19 +8,20 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/os-basicos-que-a-gente-ama-em-uma-marca-100-brasileira.png",
+          "link": "",
+          "alt": "Headset banner"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/-3.png",
+          "alt": "Banner sample two"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/-4.png"
         }
       ]
     },
@@ -31,17 +32,27 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "622032297963422eee291501:categories:Pipocas Sinta+:/macacoes",
       "sort": "offers",
-      "title": "",
+      "title": "Macacões: conforto e funcionalidade na hora de dormir!",
+      "headless": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "62d59841eb859112168cde41:categories:Primavera/verão 22:/primaveraverao-22",
+      "sort": "offers",
+      "title": "Nova coleção",
       "headless": false,
       "limit": 12,
       "page": 1
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "teti basic",
+      "description": ""
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "domain": "tetibasic.netlify.app",
+  "domain": "tetibasic.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#7a7573",
+  "primary_color": "#8c8c8c",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#c4c4c4",
   "logo": "/img/uploads/logo-teti-transp.png",
   "name": "tetibasic",
   "short_name": "Teti basic",
@@ -17,9 +17,9 @@
   "favicon": "/img/uploads/logo-teti-transp.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#7a7573",
+  "secondary_color": "#8c8c8c",
   "icon": "/img/uploads/logo-teti-transp.png",
   "store_id": 38310,
-  "description": "Somos uma loja de roupas infantis, que traz o básico para a rotina com as crianças com muito conforto, funcionalidade e estilo! ",
+  "description": "Somos uma loja de roupas infantis que traz o básico e essencial para a rotina das crianças com muito conforto, funcionalidade e estilo.\nVem com a gente vestir seu pequeno com roupa para brincar!",
   "large_icon": "/img/uploads/logo-teti-transp.png"
 }

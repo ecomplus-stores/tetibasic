@@ -1,20 +1,12 @@
 {
   "marketing_stripe": {
     "text": "Conforto, funcionalidade e estilo para o seu pequeno!",
-    "link": "/promotion",
-    "background": "#fee38f",
-    "color": "#7a7573"
+    "link": "/",
+    "background": "#ffe79a",
+    "color": "#969393"
   },
   "contacts_stripe": {
     "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
     ],
     "phone_wpp": true,
     "socials": true
