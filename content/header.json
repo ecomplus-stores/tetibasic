@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Conforto, funcionalidade e estilo para o seu pequeno!",
+    "link": "/promotion",
+    "background": "#fee38f",
+    "color": "#7a7573"
   },
   "contacts_stripe": {
     "pages": [
@@ -23,5 +25,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
