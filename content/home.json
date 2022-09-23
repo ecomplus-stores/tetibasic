@@ -8,20 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/os-basicos-que-a-gente-ama-em-uma-marca-100-brasileira.png",
+          "img": "/img/uploads/2.png",
           "link": "",
-          "alt": "Headset banner"
-        },
-        {
+          "alt": "Headset banner",
           "start": "",
           "end": "",
-          "img": "/img/uploads/-3.png",
-          "alt": "Banner sample two"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/-4.png"
+          "mobile_img": "/img/uploads/2.png"
         }
       ]
     },
