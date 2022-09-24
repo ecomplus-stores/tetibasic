@@ -48,11 +48,6 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "teti basic",
-      "description": ""
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -60,6 +55,11 @@
       "collection_id": "632e4c4973321213f88af975:categories:Cápsula smile:/capsula-smile",
       "sort": "news",
       "title": "Cápsula Smile: Roupa para ser feliz!"
+    },
+    {
+      "type": "page-title",
+      "title": "teti basic",
+      "description": ""
     }
   ]
 }
