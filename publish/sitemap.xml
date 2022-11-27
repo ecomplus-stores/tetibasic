@@ -2,84 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://tetibasic.com.br/vestidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/shorts-e-bermudas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/bodies-e-macacoes-p-bebes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/blusas-e-camisetas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/calcas-1-6-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/conjuntos-1-6-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/moda-intima</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/primaveraverao-22</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/macacoes-e-jardineiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/pijamas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/casacos-e-jaquetas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/saias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/capsula-smile</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://tetibasic.com.br/vestido-malwee-texturizado-tucanos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -296,12 +218,6 @@
     </url>
   
     <url>
-      <loc>https://tetibasic.com.br/t-shirt-on-kids-thunder-branca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://tetibasic.com.br/t-shirt-on-kids-arco-iris</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -422,12 +338,6 @@
     </url>
   
     <url>
-      <loc>https://tetibasic.com.br/conjunto-welpie-body-manga-longa-e-calca-marinho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://tetibasic.com.br/body-welpie-manga-curta-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -453,12 +363,6 @@
   
     <url>
       <loc>https://tetibasic.com.br/conjunto-welpie-manga-longa-e-calca-amarelo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/macacao-welpie-gigi-lateral-pink</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -621,12 +525,6 @@
   
     <url>
       <loc>https://tetibasic.com.br/vestido-on-kids-love</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://tetibasic.com.br/blusa-piposa-kids-manga-longa</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1157,6 +1055,84 @@
       <loc>https://tetibasic.com.br/vestido-mundi-coracoes-em-ribana-lilas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/vestidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/shorts-e-bermudas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/bodies-e-macacoes-p-bebes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/blusas-e-camisetas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/calcas-1-6-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/conjuntos-1-6-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/moda-intima</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/primaveraverao-22</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/macacoes-e-jardineiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/pijamas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/casacos-e-jaquetas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/saias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://tetibasic.com.br/capsula-smile</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
