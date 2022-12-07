@@ -1004,6 +1004,12 @@
     </url>
   
     <url>
+      <loc>https://tetibasic.com.br/kit-body-c2-brandili-love</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://tetibasic.com.br/vestidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1124,13 +1130,13 @@
     </url>
   
     <url>
-      <loc>https://tetibasic.com.br/pages/trocas</loc>
+      <loc>https://tetibasic.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://tetibasic.com.br/pages/termos</loc>
+      <loc>https://tetibasic.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
