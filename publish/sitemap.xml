@@ -1100,6 +1100,12 @@
     </url>
   
     <url>
+      <loc>https://tetibasic.com.br/3-por-r99</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://tetibasic.com.br/malwee-kids</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
